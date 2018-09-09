@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-token = '614977182:AAE4T9d72sOmtGr1VHeS5lxuyTYeCUFGv4s'
+token = '672433846:AAGUH2ilZbU7bggthhDpm1tmoR3lFC2xMGI'
