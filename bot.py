@@ -23,6 +23,6 @@ def get_mess(message):
     if message.text == '\U0001F382Услуги\U0001F382':
         bot.send_message(message.chat.id,'Создание телеграмм бота для ответа на простые команды\n--Возможность добавления до 5 команд\n--Кастомные клавиатуры\n--Подключение дополнительных функций стороних сайтов(за дополнительную цену)',reply_markup=markup_start)
     if message.text == '\U0001F525Как сделать заказ?\U0001F525':
-        bot.send_message(message.chat.id,'Вы можете сделать заказ на одной из бирж \n   Kwark -- <ссылка>\n   FL -- <ссылка>\nИли связавшись со мной через контакты',reply_markup=markup_start)
+        bot.send_message(message.chat.id,'Вы можете сделать заказ на одной из бирж \n   Kwork --https://kwork.ru/script-programming/422921/sozdam-telegramm-bota-dlya-vas \n   FL -- Пока не доступно\nИли связавшись со мной через контакты',reply_markup=markup_start)
 if __name__ == '__main__':
 		bot.polling(none_stop=True)
